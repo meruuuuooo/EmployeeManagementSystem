@@ -18,7 +18,7 @@
   * Navigate to "lib" folder to use the flatLaf
 
 ### How to use it?
-  * In the project navigate to libraries the right click the mouse
+  * In the project navigate to libraries the right click the mouse then click the "Add JAR?Folder"
   * Navigate to your Project File then find the "lib" folder then click "flatLaf" then click "OPEN"
 
 
