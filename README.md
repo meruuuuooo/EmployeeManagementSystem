@@ -24,6 +24,9 @@
 
 ![Screenshot 2024-02-06 213246](https://github.com/meruuuuooo/EmployeeManagementSystem/assets/138646937/d884c401-b641-448f-a5ff-bf2a69252433)
 ![image](https://github.com/meruuuuooo/EmployeeManagementSystem/assets/138646937/79b026d4-a971-445c-aef2-ebee7d2acf86)
+
+### Documentation
+https://drive.google.com/drive/folders/1VML9yq8AYChASMFA3WC14UuLhpOxQrtQ?usp=sharing
     
 
 
