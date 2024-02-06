@@ -15,7 +15,8 @@
   * Search Employee by its ID
 
 ### FlatLaf UI
-  * Navigate to "lib" folder to use the flatLaf
+  * Navigate to "lib" folder to use the flatLaf or download it.
+https://search.maven.org/artifact/com.formdev/flatlaf/3.3/jar?eh=
 
 ### How to use it?
   * In the project navigate to libraries the right click the mouse then click the "Add JAR?Folder"
